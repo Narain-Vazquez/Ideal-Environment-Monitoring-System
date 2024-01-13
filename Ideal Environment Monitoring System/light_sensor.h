@@ -2,7 +2,7 @@
  * light_sensor.h
  *
  *  Created on: Oct 10, 2023
- *      Author: alitt
+ *      Author: Jeffrey and Narain
  */
 
 #ifndef LIGHT_SENSOR_H_
