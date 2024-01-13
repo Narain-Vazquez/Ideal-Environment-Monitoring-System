@@ -2,7 +2,7 @@
  * pwmmotion.c
  *
  *  Created on: Oct 24, 2023
- *      Author: vazqu
+ *      Author: Jeffrey and Narain
  */
 
 #include <sensor.h>
