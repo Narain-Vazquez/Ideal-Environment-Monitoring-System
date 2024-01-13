@@ -1,5 +1,3 @@
-Open Ended For Zhao Zhang's ECE 266 @ UIC, 
-
 Collaborators: Narain Vazquez and Jeffery Lyon
 
 Pro ject use Tiva Launchpad Grove - Sound Sensor, onboard LED, & Temperature&Humidity Sensor Pro (DHT22)
