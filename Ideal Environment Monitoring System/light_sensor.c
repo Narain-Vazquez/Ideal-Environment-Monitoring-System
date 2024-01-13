@@ -2,7 +2,7 @@
  * light_sensor.c
  *
  *  Created on: Oct 10, 2023
- *      Author:
+ *      Author: Jeffrey and Narain
  */
 #include <stdint.h>
 #include <stdbool.h>
