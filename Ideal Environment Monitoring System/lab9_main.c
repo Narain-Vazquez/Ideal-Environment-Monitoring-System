@@ -219,7 +219,7 @@ void CheckNewTempReading()
 
 void Sampling(uint32_t time)
 {
-    // Trigger ADC sampling for the temperature sensor
+    // sampling for the humidity sensor
     SensorTriggerReading();
 
     // Schedule the next callback in 1000 milliseconds
