@@ -164,7 +164,7 @@ void TempSensorSampling(uint32_t time)
 
 void LightSensorSampling(uint32_t time)
 {
-    // Trigger ADC sampling for the temperature sensor
+    // Trigger ADC sampling for the light sensor
     LsTriggerSampling();
 
     // Schedule the next callback in 1000 milliseconds
